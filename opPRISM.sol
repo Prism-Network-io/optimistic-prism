@@ -966,7 +966,7 @@ contract SatellitePRISM is ISatellitePRISM, ERC20, FeeToken {
     }
 }
 
-// File: contracts\arbitrum\arPRISM.sol
+// File: contracts\optimistic\arPRISM.sol
 
 
 
