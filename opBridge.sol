@@ -1291,7 +1291,7 @@ contract SatelliteMultiBridge is MultiBridge {
     }
 }
 
-// File: contracts\arbitrum\opBridge.sol
+// File: contracts\optimistic\opBridge.sol
 
 
 
